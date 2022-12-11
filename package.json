@@ -2,8 +2,7 @@
   "name": "myreactsite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/my-react-site/dist",
-  "type": "module",
+    "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
